@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Comun
+comment0.text=\r\n\ \ Crea\ la\ clase\ de\ los\ enemigos\ Tipo\ Comun\ \ con\ sus\ caracteristicas\ \ \ \r\n\ \r\n\ @author\ Anguiano\ Garcia\ Alfredo,Ju\u00E1rez\ Jalomo\ Ana\ Paola\r\n\r\n\ @version\ (1.1\ Beta)\r\n
+comment1.params=Izq\ Der
+comment1.target=Comun(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ booL\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

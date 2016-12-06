@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Heroe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Heroe\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Heroe()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Don\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ verificaT()
+comment4.params=
+comment4.target=void\ verifExtremo()
+comment4.text=\r\n\ Aqui\ verificamos\ que\ el\ heroe\ se\ encuente\ dentro\ del\ area\ de\ juego\ y\ si\ no\ esta\ sobre\ algun\ objeto\ "solido",\ la\ gravedad\ lo\ aga\ caer\r\n\ bandSalto\:\ es\ una\ bandera\ que\ sirve\ para\ que\ el\ personaje\ pueda\ saltar\ dependiendo\ donde\ se\ encuentre\r\n
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=int\ regresaX()
+comment7.params=
+comment7.target=int\ regresaY()
+comment8.params=
+comment8.target=void\ verificaPos()
+numComments=9

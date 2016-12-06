@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ej
+comment0.text=\r\n\ Esta\ clase\ ayuda\ a\ verificar\ los\ extremos\ para\ \ el\ enmeigo\ Tierra\ \r\n\ \r\n\ @author\ Anguiano\ Garcia\ Alfredo,Ju\u00E1rez\ Jalomo\ Ana\ Paola\r\n\r\n\ @version\ (1.1\ Beta)\r\n
+comment1.params=
+comment1.target=Ej()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bonificacion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ SetRandoomPos()
+comment3.text=\r\n\ \ \ \ Hace\ que\ el\ enemigo\ fuego\ aparezca\ en\ posiciones\ aleatorias\r\n
+comment4.params=
+comment4.target=int\ GetBandEj()
+comment4.text=\r\n\ Bandera\ de\ la\ clase\r\n
+comment5.params=
+comment5.target=void\ cambiabnd()
+numComments=6

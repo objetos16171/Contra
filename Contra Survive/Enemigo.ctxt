@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\r\n\ En\ esta\ clase\ es\ donde\ los\ enemigos\ adquieren\ elm\u00E9todo\ de\ caminar\ horizontal\ \r\n\ y\ dodne\ se\ hacen\ verificaciones\ acorde\ al\ tipo\ de\ enemigo.\r\n\ \r\n\ @author\ Anguiano\ Garcia\ Alfredo,Ju\u00E1rez\ Jalomo\ Ana\ Paola\ \r\n\ \r\n\ @version\ (1.1\ Beta)\r\n
+comment1.params=file
+comment1.target=Enemigo(java.lang.String)
+comment2.params=archivo\ tamX\ tamY\ imaIzq\ imaDer\ numSpr
+comment2.target=void\ spriteNormal(java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\ Hace\ el\ recorrido\ de\ los\ Sprites\r\n
+comment3.params=cadenaI\ cadenaD
+comment3.target=void\ RevisaVista(java.lang.String,\ java.lang.String)
+comment3.text=Verifica\ \ la\ vista\ que\ tiene\ el\ enemigo\r\n
+comment4.params=archivo\ tamX\ tamY\ imaIzq\ imaDer\ numSpr\ limIzq\ limDer
+comment4.target=void\ move(java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment4.text=\ Efectua\ el\ movimiento\ del\ enemigo\ respecto\ a\ sus\ limites\r\n
+comment5.params=
+comment5.target=int\ getTlado()
+comment5.text=\ \ una\ bandera\ para\ verificar\ con\ el\ enemigo\ Tierra\r\n
+comment6.params=
+comment6.target=int\ getClado()
+comment6.text=\ \ una\ bandera\ para\ verificar\ con\ el\ enemigo\ Cielo\r\n
+numComments=7

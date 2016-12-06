@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Boton
+comment0.text=\r\n\ Inicializa\ las\ imagenes\ de\ los\ botones.\r\n\ \r\n\ @author\ Anguiano\ Garcia\ Alfredo,Ju\u00E1rez\ Jalomo\ Ana\ Paola\r\n\ @version\ (1.1\ Beta)\r\n
+comment1.params=ima
+comment1.target=Boton(greenfoot.GreenfootImage)
+numComments=2

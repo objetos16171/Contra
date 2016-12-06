@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Record
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Archivo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arch
+comment1.target=int\ leeArchivo(java.lang.String)
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ leer\ el\ archivo\r\n
+comment2.params=arch\ puntos
+comment2.target=void\ guardaArchivo(java.lang.String,\ int)
+comment2.text=\r\nMetodo\ que\ se\ encarga\ de\ guardar\ el\ archivo\ \r\n
+comment3.params=punt
+comment3.target=void\ comparaPuntaje(int)
+comment3.text=\r\nMetodo\ que\ se\ encarga\ de\ comparar\ si\ el\ puntaje\ que\ se\ ha\ hecho\ es\ mayor\ al\ highscore\ \r\n
+numComments=4

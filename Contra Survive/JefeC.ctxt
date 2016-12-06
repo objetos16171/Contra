@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=JefeC
+comment0.text=\r\n\ \ Crea\ la\ clase\ del\ \ Jefe\ del\ nivel\ Tipo\ Cielo\ \ con\ sus\ caracteristicas\ \ \ \r\n\ \r\n\ @author\ Anguiano\ Garcia\ Alfredo,Ju\u00E1rez\ Jalomo\ Ana\ Paola\r\n\r\n\ @version\ (1.1\ Beta)\r\n
+comment1.params=x\ y
+comment1.target=JefeC(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mueve()
+comment3.text=\r\n\ Hace\ que\ el\ Jefe\ se\ mueva\ de\ modo\ vertical\r\n
+comment4.params=
+comment4.target=void\ disparaBola()
+comment4.text=\r\n\ Hace\ que\ las\ verificaciones\ de\ los\ disparos\ \r\n
+numComments=5

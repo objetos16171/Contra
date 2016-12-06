@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=JefeT
+comment0.text=\r\n\ \ Crea\ la\ clase\ del\ \ Jefe\ del\ nivel\ Tipo\ Tierra\ \ con\ sus\ caracteristicas\ \ \ \r\n\ \r\n\ @author\ Anguiano\ Garcia\ Alfredo,Ju\u00E1rez\ Jalomo\ Ana\ Paola\r\n\ \r\n\ @version\ (1.1\ Beta)\r\n
+comment1.params=Izq\ Der
+comment1.target=JefeT(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ JefeT\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ LanzaRk()
+comment3.text=\r\n\ \ \ \ Hace\ que\ el\ Jefe\ lance\ rocas\ con\ un\ cierto\ angulo\ \r\n
+numComments=4
