@@ -25,12 +25,15 @@ comment16.target=void\ AddPLvl2()
 comment17.params=
 comment17.target=void\ prepareT()
 comment17.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment18.params=
+comment18.target=void\ prepare()
+comment18.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
 comment2.params=nKey
 comment2.target=void\ AgregaKey(int)
 comment2.text=\ Se\ generan\ las\ llaves\ acorde\ a\ una\ posicion.\r\n
 comment3.params=
 comment3.target=void\ act()
-comment3.text=\r\n\ \ \ \ public\ void\ SetEsc2()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ GreenfootImage\ Fg2\ \=\ new\ GreenfootImage("EscF2.png");\r\n\ \ \ \ \ \ \ \ setScrollingBackground(Fg2);\ \r\n}
+comment3.text=\r\n\ \ \ \ public\ void\ SetEsc2()\r\n\ \ \ \ {\r\n\ \ \ \ GreenfootImage\ Fg2\ \=\ new\ GreenfootImage("EscF2.png");\r\n\ \ \ \ setScrollingBackground(Fg2);\ \r\n}
 comment4.params=
 comment4.target=void\ addBottom()
 comment4.text=\ A\u00F1ade\ los\ botones\ del\ Menu\r\n
@@ -48,4 +51,4 @@ comment8.text=\ Crea\ el\ nivel\ 1\ del\ juego.\r\n
 comment9.params=
 comment9.target=void\ nivel2()
 comment9.text=\ Crea\ el\ nivel\ 2\ del\ juego.\r\n
-numComments=18
+numComments=19
